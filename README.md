@@ -16,7 +16,7 @@ Ce repository couvre les compétences suivantes :
 ---
 
 ## 📁 Structure du projet
-
+![Structure du projet](./Structure.png)
 
 ---
 
@@ -30,28 +30,27 @@ Configuration de la navigation avec `react-router-dom` :
 
 Affichage d'éléments selon une condition :
 
-### Itération avec `map()`
-
-Génération de listes dynamiques à partir d'un tableau :
-
 ---
 
-### Affichage Accueuil
+### Affichage Accueil
 
+![Affichage Accueil](./affichage_accueil.png)
 
 ---
 
 ### Affichage A propos
 
+![Affichage A propos](./affichage_apropos.png)
+
 ---
 
 ## 🛠️ Technologies utilisées
 
-| Technologie | Version | Usage |
-|---|---|---|
-| React | 18+ | Bibliothèque UI |
-| React Router DOM | 6+ | Navigation |
-| Vite | 5+ | Bundler / serveur de dev |
-| CSS | — | Stylisation |
+| Technologie       | Version | Usage             |
+|-------------------|---------|-------------------|
+| React             | 18+     | Bibliothèque UI   |
+| React Router DOM   | 6+      | Navigation        |
+| Vite              | 5+      | Bundler / serveur de dev |
+| CSS               | —       | Stylisation       |
 
 ---

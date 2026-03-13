@@ -1,16 +1,57 @@
-# React + Vite
+# React — Navigation, Rendu conditionnel & Médias
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un travail d'introduction à React couvrant les fondamentaux de la navigation, du rendu dynamique et de l'intégration de médias.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Objectifs pédagogiques
 
-## React Compiler
+Ce repository couvre les compétences suivantes :
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React Router** — configurer la navigation interne entre les pages d'une application
+- **Rendu conditionnel** — afficher ou masquer des éléments selon l'état de l'application
+- **Itération avec `map()`** — générer des listes dynamiques à partir de tableaux de données
+- **Médias & styles** — intégrer des images, des vidéos et appliquer des feuilles de style CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Structure du projet
+
+
+---
+
+## 📚 Concepts abordés
+
+### React Router
+
+Configuration de la navigation avec `react-router-dom` :
+
+### Rendu conditionnel
+
+Affichage d'éléments selon une condition :
+
+### Itération avec `map()`
+
+Génération de listes dynamiques à partir d'un tableau :
+
+---
+
+### Affichage Accueuil
+
+
+---
+
+### Affichage A propos
+
+---
+
+## 🛠️ Technologies utilisées
+
+| Technologie | Version | Usage |
+|---|---|---|
+| React | 18+ | Bibliothèque UI |
+| React Router DOM | 6+ | Navigation |
+| Vite | 5+ | Bundler / serveur de dev |
+| CSS | — | Stylisation |
+
+---
